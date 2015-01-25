@@ -294,3 +294,61 @@ a.pure-button-primary {
         font-size: 300%;
     }
 }
+
+table{
+    border-spacing:0px;
+    border-collapse:collapse;
+}
+
+.panel-primary{
+
+    border-color:#428BCA;
+
+}
+
+.panel{
+
+    margin-bottom:20px;
+    background-color:#FFF;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.05);
+
+}
+
+.panel-primary > .panel-heading{
+
+    color: #FFF;
+    background-color:#428BCA;
+    border-color: #428BCA;
+
+}
+
+.panel-heading {
+
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+
+}
+
+.panel-title{
+
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: 16px;
+    color: inherit;
+
+}
+
+.panel-body{
+
+    padding: 15px;
+
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], 
+[x-ng-cloak], .ng-cloak, .x-ng-cloak, .ng-hide {
+    display: none !important;
+}
