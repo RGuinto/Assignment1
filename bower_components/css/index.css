@@ -22,6 +22,9 @@ h5,
 h6,
 label {
     color: #34495e;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
 }
 
 .pure-img-responsive {
