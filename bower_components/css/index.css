@@ -21,7 +21,7 @@ h4,
 h5,
 h6,
 label {
-    color: #34495e;
+    color: C2C2C2;
     font-family: inherit;
     font-weight: 500;
     line-height: 1.1;
@@ -82,7 +82,7 @@ label {
 
 a.pure-button-primary {
     background: white;
-    color: #156193;
+    color: #1f8dd6;
     border-radius: 5px;
     font-size: 120%;
 }
